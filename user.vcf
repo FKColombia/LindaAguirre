@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Cardozo;Nadia;;;
-FN:Nadia Cardozo 
+N:Aguirre;Linda;;;
+FN:Linda Aguirre
 ORG: Fresenius Kabi Colombia;
-TITLE: Especialista Clínico TCT
-EMAIL;type=INTERNET;type=WORK;type=pref:nadia.cardozo@fresenius-kabi.com
+TITLE: Representante de promoción y ventas
+EMAIL;type=INTERNET;type=WORK;type=pref:linda.aguire@fresenius-kabi.com
 TEL;type=WORK;type=VOICE:+573173673485
 item1.ADR;type=WORK;type=pref:;;Avenida Carrera 7 # 155c - 20\nPiso 40\, Bogotá;Colombia
 item1.X-ABADR:sg
